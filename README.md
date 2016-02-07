@@ -30,7 +30,7 @@ The idea is to make a simple `Counter` component in React. It is divided into th
 
 Contributing
 -------------
-To be honest, I am not a good writer. If you feel something is not right, please open a PR. I'll gladly accept and appreciate any kind of contributions -- from a typo to complete re-write of any sections in this. If you've any questions, open it as a new issue.
+To be honest, I am not a good writer. If you feel something is not right, please open a PR. I'll gladly accept and appreciate any kind of contributions -- it could a typo or a complete re-write of any sections in this. If you've any questions, open it as a new issue.
 
 Thanks
 -------
