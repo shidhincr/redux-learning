@@ -22,11 +22,11 @@ Contents
 
 The idea is to make a simple `Counter` component in React. It is divided into these sections:
 
-- **Section 1** : React with state ( not using Redux ).
-- **Section 2** : Try to integrate Redux and using store.
-- **Section 3** : Using React-redux library to connect between React and Redux.
-- **Section 4** : Removing boilerplate code with redux helper methods.
-- **Section 5** : Async code handling with middlewares.
+- **[Section 1](https://github.com/shidhincr/redux-learning/blob/master/section_01.md)** : React with state ( not using Redux ).
+- **[Section 2](https://github.com/shidhincr/redux-learning/blob/master/section_02.md)** : Try to integrate Redux and using store.
+- **[Section 3](https://github.com/shidhincr/redux-learning/blob/master/section_03.md)** : Using React-redux library to connect between React and Redux.
+- **[Section 4](https://github.com/shidhincr/redux-learning/blob/master/section_04.md)** : Removing boilerplate code with redux helper methods.
+- **[Section 5](https://github.com/shidhincr/redux-learning/blob/master/section_05.md)** : Async code handling with middlewares.
 
 Contributing
 -------------
