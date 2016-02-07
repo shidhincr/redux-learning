@@ -64,4 +64,4 @@ cd SimpleReactReduxCounter
 git checkout react-state
 ```
 
-In the next section we'll see how to use [redux](https://www.npmjs.com/package/redux) to implement the same.
+In the next [section]((https://github.com/shidhincr/redux-learning/blob/master/section_02.md)) we'll see how to use [redux](https://www.npmjs.com/package/redux) to implement the same.
