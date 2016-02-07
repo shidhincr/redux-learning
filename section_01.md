@@ -1,6 +1,6 @@
 ## Building a simple counter in React ( with data saved in state )
 
-In our first section, we're going to build a simple `Counter` component with React. This section is just for the beginners and if you know how this works, feel free to skip to the next section.
+In our first section, we're going to build a simple `Counter` component with React. This section is just for the beginners and if you know how this works, feel free to skip to the next [section]((https://github.com/shidhincr/redux-learning/blob/master/section_02.md)).
 
 Let's build the react Counter component and add a state to save the `number`. The code is given below:
 
