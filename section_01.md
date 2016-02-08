@@ -56,6 +56,12 @@ ReactDOM.render(
 )   
 ```
 
+
+## How the Counter works?
+
+This is a simple React app.
+
+
 The example code is available in this Github [repo](https://github.com/shidhincr/SimpleReactReduxCounter). Just clone the repo and switch to the branch `react-state`.
 
 ```sh
