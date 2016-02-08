@@ -57,14 +57,14 @@ ReactDOM.render(
 ```
 
 
-## How the Counter works?
+## How the Counter component works?
 
-This is a simple React app.
+Counter is a stateful react component. That means, we're saving the data inside the component itself. There're two component method to update the component state. Whenever we `_increment` or `_decrement` is called, we use `setState` to save the new state.
 
 
 The example code is available in this Github [repo](https://github.com/shidhincr/SimpleReactReduxCounter). Just clone the repo and switch to the branch `react-state`.
 
-```sh
+```
 git clone https://github.com/shidhincr/SimpleReactReduxCounter
 cd SimpleReactReduxCounter
 git checkout react-state
